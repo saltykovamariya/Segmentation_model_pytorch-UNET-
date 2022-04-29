@@ -9,6 +9,7 @@ Based on the presented labeled dataset of histological images of malignant neopl
 * training pre-trained UNET model(framework PyTorch)
 
 Result example:
+
 ![](result.png)
 
 [*participant certificate*](Saltykova-1.png)
